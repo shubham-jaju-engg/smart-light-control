@@ -195,38 +195,5 @@ The project can be extended by:
 
 ---
 
-## 📁 Project Structure
 
-```text
-Arduino-Ultrasonic-Automatic-Light/
-│
-├── Arduino-Ultrasonic-Automatic-Light.ino
-├── README.md
-└── circuit/
-    └── circuit-diagram.png
-```
-
----
-
-## 📷 Project Demonstration
-
-Add your circuit image/video here:
-
-```markdown
-![Project Circuit](circuit/circuit-diagram.png)
-```
-
-You can also add a short demonstration video/GIF showing the light turning ON when an object approaches the ultrasonic sensor.
-
----
-
-## 👨‍💻 Project Summary
-
-* **Microcontroller:** Arduino Uno
-* **Sensor:** HC-SR04 Ultrasonic Sensor
-* **Output:** LED/Light
-* **Programming Language:** C/C++ (Arduino)
-* **Communication:** Digital GPIO
-* **Main Function:** Automatic light control based on detected distance
-* **Concept:** Sensor-based automation
 
